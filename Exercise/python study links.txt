@@ -1,0 +1,4 @@
+
+https://www.udacity.com/course/intro-to-computer-science--cs101
+https://developers.google.com/edu/python/introduction
+https://techquestbyranjeeta.wordpress.com/2016/06/20/getting-started-with-python/
