@@ -1,0 +1,424 @@
+,WeekDay,Director,Genre,MovieTitle,ReleaseDate,Studio,AdjustedGrossMillions,BudgetMillions,GrossMillions,IMDbRating,MovieLensRating,OverseasMillions,OverseasPercent,ProfitMillions,ProfitPercent,RuntimeMins,USMillions,GrossPercentUS
+0,Friday,Brad Bird,action,Tomorrowland,22/05/2015,Buena Vista Studios,202.1,170.0,202.1,6.7,3.26,111.9,55.4,32.1,18.9,130,90.2,44.6
+1,Friday,Scott Waugh,action,Need for Speed,14/03/2014,Buena Vista Studios,204.2,66.0,203.3,6.6,2.97,159.7,78.6,137.3,208.0,132,43.6,21.4
+3,Friday,"Phil Lord, Chris Miller",comedy,21 Jump Street,16/03/2012,Sony,208.8,42.0,201.6,7.2,3.62,63.1,31.3,159.6,380.0,109,138.4,68.7
+4,Friday,Roland Emmerich,action,White House Down,28/06/2013,Sony,209.7,150.0,205.4,8.0,3.65,132.3,64.4,55.4,36.9,131,73.1,35.6
+5,Friday,David Ayer,action,Fury,17/10/2014,Sony,212.8,80.0,211.8,5.8,2.85,126,59.5,131.8,164.8,134,85.8,40.5
+6,Thursday,Rob Marshall,adventure,Into the Woods,25/12/2014,Buena Vista Studios,213.9,50.0,212.9,6.0,3.16,84.9,39.9,162.9,325.8,125,128.0,60.1
+7,Friday,Daniel Espinosa,action,Safe House,10/02/2012,Universal,215.5,85.0,208.1,6.8,3.45,81.7,39.3,123.1,144.8,115,126.4,60.7
+8,Friday,Gary Shore,action,Dracula Untold,10/10/2014,Universal,216.5,70.0,215.5,6.3,2.92,159.2,73.9,145.5,207.9,92,56.3,26.1
+10,Friday,Eric Brevig,animation,Yogi Bear,17/12/2010,WB,219.9,80.0,201.6,4.5,2.17,101.3,50.3,121.6,152.0,80,100.2,49.7
+14,Friday,Ryan Murphy,drama,Eat Pray Love,13/08/2010,Sony,223.1,60.0,204.6,5.6,2.84,124,60.6,144.6,241.0,133,80.6,39.4
+15,Friday,Paul Greengrass,drama,Captain Phillips,11/10/2013,Sony,223.4,55.0,218.8,7.9,3.84,111.7,51.0,163.8,297.8,134,107.1,49.0
+16,Friday,Hayao Miyazaki,animation,Ponyo,14/08/2009,Buena Vista Studios,223.7,34.0,201.8,7.7,3.82,186.7,92.5,167.8,493.5,101,15.1,7.5
+17,Friday,Jaume Collet-Serra,action,Non-Stop,28/02/2014,Universal,223.8,50.0,222.8,7.0,3.4,130.6,58.6,172.8,345.6,106,92.2,41.4
+18,Friday,Jonathan Liebesman,action,Battle: Los Angeles,11/03/2011,Sony,223.9,70.0,211.8,7.6,3.65,128.3,60.6,141.8,202.6,116,83.6,39.4
+19,Friday,Christopher McQuarrie,action,Jack Reacher,21/12/2012,Paramount Pictures,226.1,60.0,218.3,7.0,3.46,138.3,63.3,158.3,263.8,130,80.1,36.7
+20,Friday,Dennis Dugan,comedy,Just Go With It,11/02/2011,Sony,227.2,80.0,214.9,6.4,3.17,111.9,52.1,134.9,168.6,117,103.0,47.9
+21,Friday,Robert Luketic,comedy,The Ugly Truth,24/07/2009,Sony,227.6,38.0,205.3,6.5,3.21,116.4,56.7,167.3,440.3,96,88.9,43.3
+22,Friday,Jake Kasdan,comedy,Bad Teacher,24/06/2011,Sony,228.6,19.0,216.2,5.7,2.96,115.9,53.6,197.2,1037.9,92,100.3,46.4
+23,Wednesday,Tate Taylor,drama,The Help,10/08/2011,Buena Vista Studios,229,25.0,216.6,8.1,3.93,46.9,21.7,191.6,766.4,146,169.7,78.3
+24,Friday,Todd Phillips,comedy,Due Date,5/11/2010,WB,231,65.0,211.8,6.6,3.17,111.2,52.5,146.8,225.9,95,100.5,47.5
+25,Friday,Tommy Wirkola,action,Hansel and Gretel: Witch Hunters,25/01/2013,Paramount Pictures,231,50.0,226.3,6.1,2.9,170.6,75.4,176.3,352.6,88,55.7,24.6
+27,Friday,Martin Campbell,action,Green Lantern,17/06/2011,WB,232.5,200.0,219.9,5.7,2.87,103.3,47.0,19.9,10.0,114,116.6,53.0
+28,Wednesday,Baz Luhrmann,adventure,Australia,26/11/2008,Fox,233.4,78.0,211.3,7.6,3.5,161.8,76.6,133.3,170.9,165,49.6,23.4
+30,Friday,Paul Feig,action,The Heat,28/06/2013,Fox,234.7,43.0,229.9,6.6,4.07,70.3,30.6,186.9,434.7,117,159.6,69.4
+31,Wednesday,Jon Turteltaub,action,The Sorcerer's Apprentice,14/07/2010,Buena Vista Studios,234.8,160.0,215.3,7.1,3.48,152.1,70.7,55.3,34.6,109,63.2,29.3
+32,Thursday,Adam Shankman,comedy,Bedtime Stories,25/12/2008,Buena Vista Studios,235.2,80.0,212.9,6.1,3.12,102.8,48.3,132.9,166.1,99,110.1,51.7
+33,Friday,Garry Marshall,comedy,Valentine's Day,12/02/2010,WB,236.1,52.0,216.5,5.8,3.0,106,49.0,164.5,316.4,125,110.5,51.0
+36,Friday,Ben Affleck,drama,Argo,12/10/2012,WB,240.6,44.5,232.3,7.8,3.9,96.3,41.5,187.8,422.0,120,136.0,58.5
+37,Friday,Michel Gondry,action,The Green Hornet,14/01/2011,Sony,240.8,110.0,227.8,5.9,2.97,129,56.6,117.8,107.1,119,98.8,43.4
+38,Friday,Peyton Reed,comedy,The Break-Up,2/06/2006,Universal,241.8,52.0,205,5.8,2.94,86.3,42.1,153,294.2,106,118.7,57.9
+39,Friday,Nancy Meyers,comedy,The Holiday,8/12/2006,Sony,241.9,85.0,205.1,6.9,3.53,141.9,69.2,120.1,141.3,138,63.2,30.8
+40,Friday,Tom Vaughan,comedy,What Happens in Vegas,9/05/2008,Fox,242.3,35.0,219.4,7.3,3.51,139.1,63.4,184.4,526.9,99,80.3,36.6
+41,Friday,Nancy Meyers,comedy,It's Complicated,25/12/2009,Universal,242.9,75.0,219.1,6.6,2.5,106.4,48.5,144.1,192.1,120,112.7,51.5
+42,Friday,"Hayden Schlossberg, Jon Hurwitz",comedy,American Reunion,6/04/2012,Universal,243.4,50.0,235,6.8,3.17,178,75.7,185,370.0,113,57.0,24.3
+44,Friday,Klay Hall,animation,Planes,9/08/2013,Buena Vista Studios,244.3,50.0,239.3,5.7,2.86,149,62.3,189.3,378.6,91,90.3,37.7
+45,Friday,Brett Ratner,action,Hercules (2015),25/07/2014,Paramount Pictures,244.5,100.0,243.4,6.1,3.33,170.7,70.1,143.4,143.4,98,72.7,29.9
+48,Thursday,Doug Liman,action,Jumper,14/02/2008,Fox,245.4,82.5,222.2,6.1,2.98,142.1,63.9,139.7,169.3,88,80.2,36.1
+50,Wednesday,Dean Parisot,comedy,Fun with Dick and Jane,21/12/2005,Sony,246,140.0,202,6.1,3.0,91.7,45.4,62,44.3,90,110.3,54.6
+51,Friday,Peyton Reed,comedy,Yes Man,19/12/2008,WB,246.5,50.0,223.2,6.9,3.46,125.6,56.2,173.2,346.4,104,97.7,43.8
+54,Friday,M. Night Shyamalan,action,After Earth,31/05/2013,Sony,248.9,130.0,243.8,4.9,2.43,183.3,75.2,113.8,87.5,100,60.5,24.8
+55,Friday,Judd Apatow,comedy,Knocked Up,1/06/2007,Universal,251.3,27.5,219.1,7.1,3.59,70.3,32.1,191.6,696.7,129,148.8,67.9
+56,Friday,Pierre Morel,action,Taken,30/01/2009,Fox,251.4,25.0,226.8,7.9,3.85,81.8,36.1,201.8,807.2,93,145.0,63.9
+57,Friday,Dennis Dugan,comedy,Grown Ups 2,12/07/2013,Sony,252.1,80.0,247,5.4,2.34,113.3,45.9,167,208.8,101,133.7,54.1
+58,Friday,Peter Hewitt,comedy,Garfield: The Movie,11/06/2004,Fox,252.8,50.0,200.8,4.9,2.27,125.4,62.5,150.8,301.6,80,75.4,37.5
+59,Friday,Tim Burton,comedy,Dark Shadows,11/05/2012,WB,254.3,150.0,245.5,6.2,3.03,165.8,67.5,95.5,63.7,113,79.7,32.5
+60,Friday,Peter Segal,action,Get Smart,20/06/2008,WB,254.8,80.0,230.7,6.5,3.27,100.4,43.5,150.7,188.4,110,130.3,56.5
+61,Wednesday,Antoine Fuqua,action,King Arthur,7/07/2004,Buena Vista Studios,256.3,90.0,203.6,6.3,3.05,151.7,74.5,113.6,126.2,126,51.9,25.5
+62,Friday,David O. Russell,drama,American Hustle,13/12/2013,Sony,256.4,40.0,251.2,6.3,2.81,101.1,40.2,211.2,528.0,138,150.1,59.8
+64,Friday,Scott Derrickson,drama,The Day the Earth Stood Still (2008),12/12/2008,Fox,257.5,80.0,233.1,5.5,2.81,153.7,66.0,153.1,191.4,104,79.4,34.0
+65,Friday,Ridley Scott,action,Kingdom of Heaven,6/05/2005,Fox,257.8,110.0,211.7,7.2,3.47,164.3,77.6,101.7,92.5,145,47.4,22.4
+66,Saturday,Rob Letterman,adventure,Gulliver's Travels,25/12/2010,Fox,258.9,112.0,237.4,4.9,2.53,194.6,82.0,125.4,112.0,85,42.8,18.0
+68,Friday,Gore Verbinski,animation,Rango,4/03/2011,Paramount Pictures,259.8,135.0,245.7,7.3,3.51,122.2,49.7,110.7,82.0,107,123.5,50.3
+69,Friday,Mark Steven Johnson,action,Ghost Rider,16/02/2007,Sony,262.4,120.0,228.7,5.2,2.19,112.9,49.4,108.7,90.6,114,115.8,50.6
+70,Friday,Brad Silberling,adventure,Lemony Snicket's A Series of Unfortunate Events,17/12/2004,Paramount Pictures,263.2,100.0,209.1,6.8,3.37,90.4,43.3,109.1,109.1,108,118.6,56.7
+71,Friday,Steve Bendelack,comedy,Mr. Bean's Holiday,24/08/2007,Universal,263.5,25.0,229.7,6.3,2.84,196.4,85.5,204.7,818.8,90,33.3,14.5
+73,Tuesday,Gore Verbinski,action,The Lone Ranger,2/07/2013,Buena Vista Studios,265.9,225.0,260.5,6.5,3.03,171.2,65.7,35.5,15.8,149,89.3,34.3
+74,Friday,Pete Docter,animation,Inside Out,19/06/2015,Buena Vista Studios,266.6,175.0,266.6,8.8,4.15,81.5,30.6,91.6,52.3,102,185.1,69.4
+76,Thursday,David Frankel,comedy,Marley and Me,25/12/2008,Fox,268.1,60.0,242.7,6.2,2.96,99.6,41.0,182.7,304.5,115,143.2,59.0
+77,Friday,Clark Johnson,action,S.W.A.T.,8/08/2003,Sony,268.4,70.0,207.7,6.0,3.01,90.8,43.7,137.7,196.7,117,116.9,56.3
+79,Friday,Ridley Scott,action,Exodus: Gods and Kings,12/12/2014,Fox,269.2,140.0,268,6.1,2.66,203,75.7,128,91.4,150,65.0,24.3
+80,Friday,"Phil Lord, Chris Miller",animation,Cloudy with a Chance of Meatballs,18/09/2009,Sony,269.4,100.0,243,7.0,3.49,118.1,48.6,143,143.0,90,124.9,51.4
+81,Friday,Nicholas Stoller,comedy,Neighbors,9/05/2014,Universal,269.4,18.0,268.2,6.4,3.09,118,44.0,250.2,1390.0,97,150.2,56.0
+82,Wednesday,Lawrence Guterman,action,Cats & Dogs,4/07/2001,WB,269.5,60.0,200.7,5.2,2.7,107.3,53.5,140.7,234.5,87,93.4,46.5
+84,Friday,Robert Schwentke,action,Flightplan,23/09/2005,Buena Vista Studios,272,55.0,223.4,6.2,3.08,133.7,59.8,168.4,306.2,98,89.7,40.2
+85,Wednesday,Clint Eastwood,drama,Million Dollar Baby,15/12/2004,WB,272.9,30.0,216.8,8.1,3.87,116.3,53.6,186.8,622.7,132,100.5,46.4
+87,Friday,Peter Weir,action,Master and Commander: The Far Side of the World,14/11/2003,Fox,274,135.0,212,7.4,3.64,118.1,55.7,77,57.0,138,93.9,44.3
+88,Friday,Chris Wedge,animation,Epic,24/05/2013,Fox,274,100.0,268.4,6.7,1.49,160.9,59.9,168.4,168.4,102,107.5,40.1
+89,Friday,Rob Minkoff,animation,Mr. Peabody & Sherman,7/03/2014,Fox,274.1,145.0,272.9,6.9,3.4,161.4,59.1,127.9,88.2,92,111.5,40.9
+92,Wednesday,"Ethan Coen, Joel Coen",adventure,True Grit,22/12/2010,Paramount Pictures,275.2,35.0,252.3,7.7,3.87,81,32.1,217.3,620.9,110,171.2,67.9
+93,Wednesday,Rawson Marshall Thurber,comedy,We're the Millers,7/08/2013,WB,275.6,37.0,270,7.1,3.43,119.6,44.3,233,629.7,110,150.4,55.7
+96,Friday,Elizabeth Banks,comedy,Pitch Perfect 2,15/05/2015,Universal,276.9,29.0,276.9,6.9,3.3,95.9,34.6,247.9,854.8,115,181.1,65.4
+97,Friday,Rob Cohen,action,The Fast and the Furious,22/06/2001,Universal,278.4,38.0,207.3,6.7,3.16,62.8,30.3,169.3,445.5,106,144.5,69.7
+98,Friday,Kenny Ortega,comedy,High School Musical 3: Senior Year,24/10/2008,Buena Vista Studios,279.3,11.0,252.9,4.3,2.33,162.3,64.2,241.9,2199.1,112,90.6,35.8
+100,Friday,"Cody Cameron, Kris Pearn",animation,Cloudy with a Chance of Meatballs 2,27/09/2013,Sony,280,78.0,274.3,6.5,3.21,154.5,56.3,196.3,251.7,95,119.8,43.7
+104,Friday,Doug Liman,action,The Bourne Identity,14/06/2002,Universal,282.9,60.0,214,7.9,3.9,92.4,43.2,154,256.7,119,121.7,56.8
+108,Wednesday,James Mangold,action,Knight & Day,23/06/2010,Fox,285.6,117.0,261.9,6.3,3.27,185.5,70.8,144.9,123.9,109,76.4,29.2
+109,Friday,Tony Gilroy,action,The Bourne Legacy,10/08/2012,Universal,286,125.0,276.1,6.7,3.49,162.9,59.0,151.1,120.9,135,113.2,41.0
+110,Friday,Hayao Miyazaki,animation,Howl's Moving Castle,10/06/2005,Buena Vista Studios,286.4,24.0,235.2,8.2,4.07,230.5,98.0,211.2,880.0,119,4.7,2.0
+112,Wednesday,David Soren,animation,Turbo,17/07/2013,Fox,288.5,135.0,282.6,6.5,2.94,199.5,70.6,147.6,109.3,96,83.0,29.4
+115,Friday,Walt Becker,action,Wild Hogs,2/03/2007,Buena Vista Studios,290.9,60.0,253.6,5.9,2.79,85.4,33.7,193.6,322.7,100,168.3,66.3
+117,Friday,Joseph Kosinski,action,Oblivion,19/04/2013,Universal,292.2,120.0,286.2,7.0,3.5,197.1,68.9,166.2,138.5,124,89.1,31.1
+118,Friday,Donald Petrie,comedy,Miss Congeniality,22/12/2000,WB,293.7,45.0,212.7,6.1,3.04,105.9,49.8,167.7,372.7,109,106.8,50.2
+120,Friday,Stefen Fangmeier,action,Eragon,15/12/2006,Fox,294.3,100.0,249.5,5.1,2.63,174.5,69.9,149.5,149.5,104,75.0,30.1
+123,Friday,Tom Shadyac,comedy,Patch Adams,25/12/1998,Universal,295.1,90.0,202.3,6.6,3.15,67.3,33.3,112.3,124.8,115,135.0,66.7
+126,Wednesday,"Ron Clements, John Musker",animation,The Princess and the Frog,25/11/2009,Buena Vista Studios,296,105.0,267,7.2,3.59,162.6,60.9,162,154.3,97,104.4,39.1
+127,Friday,Dennis Dugan,comedy,Grown Ups,25/06/2010,Sony,296,75.0,271.4,6.0,2.81,109.4,40.3,196.4,261.9,102,162.0,59.7
+128,Wednesday,Roland Emmerich,action,The Patriot,28/06/2000,Sony,297.3,110.0,215.3,6.1,3.22,102,47.4,105.3,95.7,165,113.3,52.6
+129,Friday,Martin Campbell,action,Vertical Limit,8/12/2000,Sony,297.9,75.0,215.7,5.8,2.85,146.4,67.9,140.7,187.6,124,69.2,32.1
+130,Friday,Roland Emmerich,action,"10,000 B.C.",7/03/2008,WB,298,105.0,269.8,5.0,2.53,175,64.9,164.8,157.0,109,94.8,35.1
+131,Friday,Clint Eastwood,drama,Gran Torino,12/12/2008,WB,298.2,33.0,270,8.2,3.99,121.9,45.1,237,718.2,116,148.1,54.9
+132,Friday,Jesse Dylan,comedy,American Wedding,1/08/2003,Universal,299.1,55.0,231.4,7.6,3.85,126.9,54.8,176.4,320.7,96,104.6,45.2
+134,Wednesday,Peter Hyams,action,End of Days,24/11/1999,Universal,302.6,100.0,212,5.7,2.68,145.1,68.4,112,112.0,121,66.9,31.6
+136,Friday,Florian Henckel von Donnersmarck,action,The Tourist,10/12/2010,Sony,303.5,100.0,278.3,6.0,3.08,210.7,75.7,178.3,178.3,103,67.6,24.3
+137,Friday,Paul Feig,comedy,Bridesmaids,13/05/2011,Universal,304.9,32.5,288.4,6.8,3.53,119.3,41.4,255.9,787.4,125,169.1,58.6
+138,Friday,John Singleton,action,2 Fast 2 Furious,6/06/2003,Universal,305.5,76.0,236.4,5.8,2.5,109.2,46.2,160.4,211.1,107,127.2,53.8
+139,Friday,Ridley Scott,drama,American Gangster,2/11/2007,Universal,305.7,100.0,266.5,7.8,3.83,136.3,51.2,166.5,166.5,157,130.2,48.8
+140,Friday,Zack Snyder,action,Superman,14/06/2013,WB,306.4,55.0,300.2,7.3,3.38,166,55.3,245.2,445.8,143,134.2,44.7
+141,Friday,Larry Charles,comedy,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,3/11/2006,Fox,308.6,18.0,261.6,7.3,3.5,133.1,50.9,243.6,1353.3,84,128.5,49.1
+142,Friday,Josh Boone,drama,The Fault in our Stars,6/06/2014,Fox,308.6,12.0,307.2,7.9,3.58,182.4,59.4,295.2,2460.0,126,124.9,40.6
+144,Thursday,John Moore,action,A Good Day to Die Hard,14/02/2013,Fox,311,92.0,304.7,5.3,2.59,237.3,77.9,212.7,231.2,98,67.3,22.1
+145,Friday,"Paul Tibbitt, Mike Mitchell",animation,The SpongeBob Movie: Sponge Out of Water,6/02/2015,Paramount Pictures,311.6,74.0,311.6,6.2,2.25,148.6,47.7,237.6,321.1,92,163.0,52.3
+146,Friday,Peter Berg,action,Battleship,18/05/2012,Universal,313.8,209.0,303,5.9,2.83,237.6,78.4,94,45.0,131,65.4,21.6
+148,Friday,Jonathan Liebesman,action,Wrath of the Titans,30/03/2012,WB,316.2,150.0,305.3,5.8,2.78,221.6,72.6,155.3,103.5,99,83.7,27.4
+150,Friday,Shawn Levy,action,Real Steel,7/10/2011,Buena Vista Studios,316.4,110.0,299.3,6.3,3.28,213.8,71.4,189.3,172.1,127,85.5,28.6
+151,Friday,Steven Spielberg,adventure,A.I. Artificial Intelligence,29/06/2001,WB,316.8,90.0,235.9,7.1,3.21,157.3,66.7,145.9,162.1,146,78.6,33.3
+152,Wednesday,Barry Sonnenfeld,action,Wild Wild West,30/06/1999,WB,317,175.0,222.1,4.8,2.31,108.3,48.8,47.1,26.9,106,113.8,51.2
+153,Friday,Ang Lee,action,Hulk,20/06/2003,Universal,317.2,137.0,245.4,5.7,2.69,113.2,46.1,108.4,79.1,138,132.2,53.9
+154,Friday,"Chris Wedge, Carlos Saldanha",animation,Robots,11/03/2005,Fox,317.4,80.0,260.7,6.3,3.28,132.5,50.8,180.7,225.9,91,128.2,49.2
+157,Friday,Richard Curtis,comedy,Love Actually,7/11/2003,Universal,319.1,45.0,246.9,7.7,3.8,187.2,75.8,201.9,448.7,135,59.7,24.2
+158,Friday,Phillip Noyce,action,Salt,23/07/2010,Sony,320.1,110.0,293.5,6.4,3.33,175.2,59.7,183.5,166.8,100,118.3,40.3
+159,Friday,Curtis Hanson,drama,8 Mile,8/11/2002,Universal,321.1,41.0,242.9,6.9,3.25,126.1,51.9,201.9,492.4,110,116.8,48.1
+160,Friday,Martin Scorsese,drama,Shutter Island,19/02/2010,Paramount Pictures,321.5,80.0,294.8,8.1,3.91,166.8,56.6,214.8,268.5,138,128.0,43.4
+163,Friday,"Aaron Blaise, Robert A. Walker",animation,Brother Bear,24/10/2003,Buena Vista Studios,323.6,18.0,250.4,6.7,3.17,165.1,65.9,232.4,1291.1,82,85.3,34.1
+164,Friday,Hoyt Yeatman,action,G-Force,24/07/2009,Buena Vista Studios,324.6,82.5,292.8,5.1,2.55,173.4,59.2,210.3,254.9,88,119.4,40.8
+166,Friday,Olivier Megaton,action,Taken 3,9/01/2015,Fox,325.8,48.0,325.8,6.1,2.88,236.5,72.6,277.8,578.8,109,89.3,27.4
+167,Friday,H.B. Halicki,action,Gone in 60 Seconds,9/05/2000,Buena Vista Studios,327.6,90.0,237.2,6.5,3.07,135.6,57.1,147.2,163.6,105,101.6,42.9
+168,Friday,"Steve Martino, Jimmy Hayward",animation,Dr. Seuss' Horton Hears a Who!,14/03/2008,Fox,328.2,85.0,297.1,6.9,3.45,142.6,48.0,212.1,249.5,86,154.5,52.0
+169,Wednesday,Mel Gibson,action,Braveheart,24/05/1995,Paramount Pictures,328.3,72.0,210.4,8.4,4.05,134.8,64.1,138.4,192.2,177,75.6,35.9
+173,Friday,Beeban Kidron,comedy,Bridget Jones: The Edge of Reason,12/11/2004,Universal,330.5,50.0,262.5,5.9,2.97,222.3,84.7,212.5,425.0,108,40.2,15.3
+174,Friday,Steve Oedekerk,comedy,Ace Ventura: When Nature Calls,10/11/1995,WB,331.4,30.0,212.4,6.3,2.62,104,49.0,182.4,608.0,90,108.4,51.0
+175,Friday,Tim Story,action,Fantastic Four: Rise of the Silver Surfer,15/06/2007,Fox,331.5,120.0,289,5.6,2.86,157.1,54.4,169,140.8,92,131.9,45.6
+176,Friday,Simon West,action,Con Air,6/06/1997,Buena Vista Studios,331.9,80.0,224,6.8,3.19,122.9,54.9,144,180.0,115,101.1,45.1
+177,Friday,"Phil Lord, Chris Miller",comedy,22 Jump Street,13/06/2014,Sony,332.8,50.0,331.3,7.1,3.5,139.6,42.1,281.3,562.6,112,191.7,57.9
+180,Friday,Joseph McGinty Nichol,action,Charlie's Angels: Full Throttle,27/06/2003,Sony,335,120.0,259.2,4.8,2.54,158.3,61.1,139.2,116.0,106,100.8,38.9
+181,Friday,Dennis Dugan,comedy,Big Daddy,25/06/1999,Sony,335.2,30.0,234.8,6.4,3.12,71.3,30.4,204.8,682.7,93,163.5,69.6
+182,Friday,Stephen Sommers,action,G.I. Joe: The Rise of Cobra,7/08/2009,Paramount Pictures,335.3,175.0,302.5,5.8,2.85,152.3,50.3,127.5,72.9,118,150.2,49.7
+183,Friday,"Paul Weitz, Chris Weitz",comedy,American Pie,9/07/1999,Universal,336.2,12.0,235.5,7.0,3.34,132.9,56.4,223.5,1862.5,95,102.6,43.6
+184,Wednesday,Paul Weitz,comedy,Little Fockers,22/12/2010,Universal,338.8,100.0,310.7,5.4,2.7,162.2,52.2,210.7,210.7,98,148.4,47.8
+185,Friday,Noam Murro,action,300: Rise of An Empire,7/03/2014,WB,339.1,110.0,337.6,6.3,2.93,231,68.4,227.6,206.9,102,106.6,31.6
+187,Friday,Ang Lee,action,The Incredible Hulk,20/06/2003,Universal,340.4,137.0,263.4,6.9,3.34,128.6,48.8,126.4,92.3,138,134.8,51.2
+189,Friday,Wes Ball,action,The Maze Runner,19/09/2014,Fox,342.3,34.0,340.8,6.9,3.38,238.3,69.9,306.8,902.4,113,102.4,30.1
+190,Friday,"Christopher Williams, Byron Howard",animation,Bolt,21/11/2008,Buena Vista Studios,342.4,150.0,310,6.9,3.53,195.9,63.2,160,106.7,96,114.1,36.8
+194,Friday,Barry Levinson,drama,Disclosure,9/12/1994,WB,343.4,55.0,214,6.0,3.29,131,61.2,159,289.1,128,83.0,38.8
+195,Friday,Nancy Meyers,comedy,Something's Gotta Give,12/12/2003,Sony,344.7,80.0,266.7,6.7,3.49,142,53.2,186.7,233.4,128,124.7,46.8
+196,Wednesday,Phillip Noyce,action,Clear and Present Danger,3/08/1994,Paramount Pictures,346.4,62.0,215.9,6.9,3.67,93.7,43.4,153.9,248.2,141,122.2,56.6
+198,Saturday,Brad Peyton,adventure,Journey 2: The Mysterious Island,11/02/2012,WB,347.3,79.0,335.3,5.8,2.84,231.4,69.0,256.3,324.4,94,103.9,31.0
+199,Thursday,M. Night Shyamalan,action,The Last Airbender,1/07/2010,Paramount Pictures,348.7,150.0,319.7,4.3,2.36,187.9,58.8,169.7,113.1,103,131.8,41.2
+200,Friday,Joe Pytka,animation,Space Jam,15/11/1996,WB,349.2,80.0,230.4,6.2,2.73,140,60.8,150.4,188.0,88,90.4,39.2
+201,Friday,Ridley Scott,action,Robin Hood,14/05/2010,Universal,350.8,180.0,321.7,6.7,3.19,216.4,67.3,141.7,78.7,140,105.3,32.7
+204,Friday,Anne Fletcher,comedy,The Proposal,19/06/2009,Buena Vista Studios,351.8,40.0,317.4,6.7,3.52,153.4,48.3,277.4,693.5,108,164.0,51.7
+205,Friday,Joel Schumacher,action,Batman and Robin,20/06/1997,WB,352.9,125.0,238.2,3.6,3.06,130.9,54.9,113.2,90.6,125,107.3,45.1
+206,Friday,Michael Bay,action,Bad Boys II,18/07/2003,Sony,353.2,130.0,273.3,6.5,3.09,134.7,49.3,143.3,110.2,147,138.6,50.7
+208,Wednesday,Raja Gosnell,animation,The Smurfs 2,31/07/2013,Sony,354.7,110.0,347.5,5.4,2.28,276.5,79.6,237.5,215.9,105,71.0,20.4
+211,Friday,George Miller,action,Mad Max: Fury Road,15/05/2015,WB,356.4,150.0,356.4,8.5,3.95,209.3,58.7,206.4,137.6,120,147.1,41.3
+214,Friday,Baz Luhrmann,drama,The Great Gatsby (2013),10/05/2013,WB,358.3,190.0,351,7.3,3.49,206.2,58.7,161,84.7,142,144.8,41.3
+216,Friday,Neil Jordan,drama,Interview with the Vampire,11/11/1994,WB,359,50.0,223.7,7.6,3.49,118.4,52.9,173.7,347.4,123,105.3,47.1
+219,Friday,Robert Zemeckis,animation,A Christmas Carol (2009),6/11/2009,Buena Vista Studios,360.6,190.0,325.3,6.9,3.24,187.4,57.6,135.3,71.2,96,137.9,42.4
+220,Friday,"Dean DeBlois, Chris Sanders",animation,Lilo & Stitch,21/06/2002,Buena Vista Studios,361,80.0,273.1,7.1,3.49,127.3,46.6,193.1,241.4,85,145.8,53.4
+221,Friday,"Chris Renaud, Kyle Balda",animation,Dr. Seuss' The Lorax,2/03/2012,Universal,361.3,67.5,348.8,6.5,3.17,134.8,38.6,281.3,416.7,86,214.0,61.4
+222,Friday,Shawn Levy,adventure,Night at the Museum: Secret of the Tomb,19/12/2014,Fox,362,127.0,360.4,6.3,2.78,246.6,68.4,233.4,183.8,98,113.7,31.6
+224,Friday,Mike Mitchell,animation,Alvin and the Chipmunks: Chipwrecked,16/12/2011,Fox,362.3,80.0,342.7,4.4,2.11,209.6,61.2,262.7,328.4,87,133.1,38.8
+225,Friday,Paul Greengrass,action,The Bourne Supremacy,23/07/2004,Universal,363.2,85.0,288.5,7.8,3.85,112.3,38.9,203.5,239.4,108,176.2,61.1
+226,Friday,Hayao Miyazaki,animation,Spirited Away,20/09/2002,Buena Vista Studios,363.4,19.0,274.9,8.6,4.21,264.9,96.3,255.9,1346.8,125,10.1,3.7
+227,Friday,John Woo,action,Face/Off,27/06/1997,Paramount Pictures,364,80.0,245.7,7.1,3.65,133.4,54.3,165.7,207.1,138,112.3,45.7
+228,Friday,Darren Aronofsky,action,Noah,28/03/2014,Paramount Pictures,364.2,130.0,362.6,5.9,2.84,261.4,72.1,232.6,178.9,138,101.2,27.9
+229,Friday,"Ray Patterson, Charles Nichols",animation,Scooby-Doo,14/06/2002,WB,364.4,84.0,275.7,4.9,2.4,122.4,44.4,191.7,228.2,90,153.3,55.6
+230,Friday,Joseph McGinty Nichol,action,Charlie's Angels,3/11/2000,Sony,364.7,90.0,264.1,8.1,3.8,138.8,52.6,174.1,193.4,98,125.3,47.4
+231,Friday,John McTiernan,action,The Hunt for Red October,2/03/1990,Paramount Pictures,364.8,30.0,200.5,7.6,3.86,78.5,39.1,170.5,568.3,134,122.0,60.9
+232,Friday,Martin Campbell,action,The Mask of Zorro,17/07/1998,Sony,365.2,65.0,250.3,6.7,3.29,156.2,62.4,185.3,285.1,136,94.1,37.6
+233,Friday,Tony Scott,action,Enemy of the State,20/11/1998,Buena Vista Studios,365.6,85.0,250.6,7.3,3.54,139.1,55.5,165.6,194.8,132,111.5,44.5
+237,Friday,Mike Newell,action,Prince of Persia: The Sands of Time,28/05/2010,Buena Vista Studios,366.9,200.0,336.4,6.6,3.26,245.6,73.0,136.4,68.2,116,90.8,27.0
+238,Friday,Chuck Russell,action,Eraser,21/06/1996,WB,367.2,100.0,242.3,6.0,3.18,141,58.2,142.3,142.3,115,101.3,41.8
+240,Friday,Ivan Reitman,action,Kindergarten Cop,21/12/1990,Universal,367.5,26.0,202,5.9,2.82,110.5,54.7,176,676.9,111,91.5,45.3
+241,Friday,Tim Johnson,animation,Home,27/03/2015,Fox,367.7,130.0,367.7,6.8,2.38,193,52.5,237.7,182.9,94,174.7,47.5
+242,Thursday,David Fincher,drama,The Curious Case of Benjamin Button,25/12/2008,Paramount Pictures,368.8,160.0,333.9,7.8,3.65,206.4,61.8,173.9,108.7,166,127.5,38.2
+243,Friday,Simon West,action,Lara Croft: Tomb Raider,15/06/2001,Paramount Pictures,368.9,94.0,274.7,5.7,2.77,143.5,52.3,180.7,192.2,100,131.2,47.7
+244,Thursday,Todd Phillips,comedy,The Hangover Part III,23/05/2013,WB,369.5,103.0,362,5.9,2.93,249.8,69.0,259,251.5,100,112.2,31.0
+245,Friday,David Fincher,drama,Gone Girl,3/10/2014,Fox,369.8,61.0,368.1,6.7,3.43,200.3,54.4,307.1,503.4,149,167.8,45.6
+246,Friday,Doug Liman,action,Edge of Tomorrow,6/06/2014,WB,370.9,178.0,369.2,7.9,3.85,269,72.9,191.2,107.4,113,100.2,27.1
+247,Friday,Genndy Tartakovsky,animation,Hotel Transylvania,28/09/2012,Sony,371.2,85.0,358.4,7.1,3.38,210.1,58.6,273.4,321.7,91,148.3,41.4
+249,Friday,Bryan Singer,action,X-Men: First Class,3/06/2011,Fox,373.8,200.0,353.6,7.8,3.84,207.2,58.6,153.6,76.8,131,146.4,41.4
+250,Sunday,"Ron Clements, John Musker",animation,Hercules,15/06/1997,Buena Vista Studios,374.4,70.0,252.7,6.1,2.9,153.6,60.8,182.7,261.0,92,99.1,39.2
+252,Wednesday,"Simon J. Smith, Eric Darnell",animation,Penguins of Madagascar,26/11/2014,Fox,375.3,132.0,373.6,6.8,3.3,290.2,77.7,241.6,183.0,92,83.4,22.3
+253,Friday,Timur Bekmambetov,action,Wanted,27/06/2008,Universal,377.1,75.0,341.4,6.7,3.51,206.9,60.6,266.4,355.2,110,134.5,39.4
+254,Friday,Stephen Sommers,action,Van Helsing,7/05/2004,Universal,378,170.0,300.3,6.0,2.8,180.1,60.0,130.3,76.7,131,120.2,40.0
+257,Friday,Mark Dindal,animation,Chicken Little,4/11/2005,Buena Vista Studios,382.8,60.0,314.4,5.8,2.91,179,56.9,254.4,424.0,81,135.4,43.1
+258,Wednesday,Jon M. Chu,action,G.I. Joe: Retaliation,27/03/2013,Paramount Pictures,383.5,130.0,375.7,5.8,2.75,253.2,67.4,245.7,189.0,110,122.5,32.6
+260,Friday,Peter Weir,drama,The Truman Show,5/06/1998,Paramount Pictures,385.3,60.0,264.1,5.5,2.81,138.5,52.4,204.1,340.2,103,125.6,47.6
+261,Friday,David Frankel,comedy,The Devil Wears Prada,30/06/2006,Fox,385.3,35.0,326.6,6.8,3.41,201.8,61.8,291.6,833.1,109,124.7,38.2
+262,Friday,James B. Rogers,comedy,American Pie 2,10/08/2001,Universal,386.2,30.0,287.6,6.4,2.98,142.5,49.5,257.6,858.7,108,145.1,50.5
+263,Wednesday,Robert Zemeckis,animation,The Polar Express,10/11/2004,WB,387.1,170.0,307.5,6.6,3.16,124.1,40.4,137.5,80.9,100,183.4,59.6
+264,Friday,Olivier Megaton,action,Taken 2,5/10/2012,Fox,389.6,45.0,376.1,6.3,3.17,236.3,62.8,331.1,735.8,92,139.9,37.2
+265,Wednesday,Kevin Lima,comedy,Enchanted,21/11/2007,Buena Vista Studios,390.6,85.0,340.5,7.2,3.6,212.7,62.5,255.5,300.6,107,127.8,37.5
+266,Friday,Luc Besson,action,The Fifth Element,9/05/1997,Sony,391,95.0,263.9,7.6,3.71,200.1,75.8,168.9,177.8,126,63.8,24.2
+267,Friday,Harald Zwart,action,The Karate Kid,11/06/2010,Sony,391.6,40.0,359.1,7.2,3.2,182.5,50.8,319.1,797.8,140,176.6,49.2
+268,Friday,Joe Johnston,action,Captain America: The First Avenger,22/07/2011,Paramount Pictures,391.8,140.0,370.6,6.8,3.56,193.9,52.3,230.6,164.7,124,176.7,47.7
+270,Friday,Emile Ardolino,comedy,Sister Act,29/05/1992,Buena Vista Studios,392.6,31.0,231.6,6.2,2.97,92,39.7,200.6,647.1,100,139.6,60.3
+272,Wednesday,Steven Spielberg,animation,The Adventures of Tintin,21/12/2011,Paramount Pictures,395.4,130.0,374,7.4,3.58,296.4,79.3,244,187.7,107,77.6,20.7
+274,Friday,Chris Noonan,adventure,Babe,4/08/1995,Universal,396.5,30.0,254.1,6.8,3.65,190.5,75.0,224.1,747.0,89,63.7,25.0
+278,Friday,Tim Story,action,Fantastic Four,8/07/2005,Fox,402.6,87.5,330.6,5.7,2.9,175.9,53.2,243.1,277.8,106,154.7,46.8
+279,Friday,Matthew Vaughn,action,Kingsman: The Secret Service,13/02/2015,Fox,403.8,81.0,403.8,7.9,3.66,275.5,68.2,322.8,398.5,129,128.2,31.8
+280,Wednesday,"Ron Clements, John Musker",animation,The Little Mermaid,15/11/1989,Buena Vista Studios,405.2,40.0,211.3,6.6,3.24,99.8,47.2,171.3,428.3,83,111.5,52.8
+282,Friday,Bryan Singer,action,X-Men,14/07/2000,Fox,409.2,200.0,296.3,7.4,3.59,139,46.9,96.3,48.2,131,157.3,53.1
+284,Friday,Joe Johnston,adventure,Jumanji,15/12/1995,Sony,410.1,65.0,262.8,6.8,3.22,162.3,61.8,197.8,304.3,104,100.5,38.2
+285,Friday,Rupert Sanders,action,Snow White and the Huntsman,1/06/2012,Universal,410.8,170.0,396.6,6.1,2.99,241.3,60.8,226.6,133.3,127,155.3,39.2
+286,Thursday,Joseph McGinty Nichol,action,Terminator Salvation,21/05/2009,WB,411.7,200.0,371.4,6.7,3.27,246,66.3,171.4,85.7,115,125.3,33.7
+288,Friday,"Kevin Reynolds, Kevin Costner",action,Waterworld,28/07/1995,Universal,412.3,175.0,264.2,6.1,2.86,176,66.6,89.2,51.0,136,88.2,33.4
+290,Friday,Gavin Hood,action,X-Men Origins: Wolverine,1/05/2009,Fox,413.6,150.0,373.1,6.7,3.33,193.2,51.8,223.1,148.7,107,179.9,48.2
+291,Friday,Tim Hill,animation,Alvin and the Chipmunks,14/12/2007,Fox,414.5,55.0,361.3,5.3,2.54,144,39.9,306.3,556.9,92,217.3,60.1
+292,Friday,Cameron Crowe,comedy,Jerry Maguire,13/12/1996,Sony,414.7,50.0,273.6,7.3,3.63,119.6,43.7,223.6,447.2,139,154.0,56.3
+293,Friday,Tom Shadyac,comedy,The Nutty Professor,28/06/1996,Universal,415.3,55.0,274,5.5,2.91,145.1,53.0,219,398.2,95,128.8,47.0
+294,Wednesday,Jay Roach,comedy,Meet the Parents,22/12/2004,Universal,415.9,60.0,330.4,7.0,3.46,164.2,49.7,270.4,450.7,115,166.2,50.3
+295,Friday,Richard Donner,action,Lethal Weapon 4,10/07/1998,WB,416.4,140.0,285.4,6.6,3.12,155,54.3,145.4,103.9,127,130.4,45.7
+297,Friday,Ridley Scott,adventure,Prometheus,8/06/2012,Fox,417.8,125.0,403.4,7.0,3.43,276.9,68.6,278.4,222.7,124,126.5,31.4
+298,Friday,Guillermo del Toro,action,Pacific Rim,12/07/2013,WB,419.6,190.0,411,6.1,2.78,309.2,75.2,221,116.3,131,101.8,24.8
+303,Wednesday,"Carlos Saldanha, Michael Thurmeier",animation,Ice Age,1/07/2009,Fox,424.9,90.0,383.3,7.6,3.61,206.9,54.0,293.3,325.9,94,176.4,46.0
+305,Friday,Joe Johnston,adventure,"Honey, I Shrunk the Kids",23/06/1989,Buena Vista Studios,427.1,18.0,222.7,6.2,2.69,92,41.3,204.7,1137.2,93,130.7,58.7
+307,Friday,Rob Minkoff,adventure,Stuart Little,17/12/1999,Sony,428.4,133.0,300.1,5.9,2.91,160.1,53.3,167.1,125.6,84,140.0,46.7
+309,Friday,Ivan Reitman,comedy,Twins,9/12/1988,Universal,435.4,15.0,216.6,5.9,2.82,104.7,48.3,201.6,1344.0,105,111.9,51.7
+310,Friday,Joseph Kosinski,action,Tron Legacy,17/12/2010,Buena Vista Studios,436.3,200.0,400.1,6.8,3.38,228,57.0,200.1,100.1,125,172.1,43.0
+311,Wednesday,Renny Harlin,action,Die Hard 2: Die Harder,4/07/1990,Fox,436.7,70.0,240,7.1,3.42,122.5,51.0,170,242.9,124,117.5,49.0
+312,Friday,Richard Donner,action,Lethal Weapon 2,7/07/1989,WB,437.1,25.0,227.9,7.2,3.29,80.6,35.4,202.9,811.6,114,147.3,64.6
+314,Friday,Jon Turteltaub,adventure,National Treasure,19/11/2004,Buena Vista Studios,437.5,100.0,347.5,6.9,3.42,174.5,50.2,247.5,247.5,131,173.0,49.8
+315,Wednesday,Adrian Lyne,drama,Indecent Proposal,7/04/1993,Paramount Pictures,438.7,38.0,266.6,5.8,2.85,160,60.0,228.6,601.6,117,106.6,40.0
+316,Wednesday,Len Wiseman,action,Live Free or Die Hard,27/06/2007,Fox,439.9,110.0,383.5,7.2,3.58,249,64.9,273.5,248.6,128,134.5,35.1
+318,Friday,Brad Peyton,action,San Andreas,29/05/2015,WB,441.2,110.0,441.2,6.6,2.84,299.2,67.8,331.2,301.1,114,142.0,32.2
+319,Friday,Garry Marshall,comedy,Runaway Bride,30/07/1999,Paramount Pictures,441.8,70.0,309.5,6.6,3.46,157.2,50.8,239.5,342.1,116,152.3,49.2
+320,Friday,Rob Cohen,action,The Mummy: Tomb of the Dragon Emperor,1/08/2008,Universal,443,175.0,401.1,5.2,2.63,298.6,74.4,226.1,129.2,112,102.5,25.6
+321,Friday,P. J. Hogan,comedy,My Best Friend's Wedding,20/06/1997,Sony,443.5,46.0,299.3,7.1,3.33,172.2,57.5,253.3,550.7,105,127.1,42.5
+322,Friday,"Barry Cook, Tony Bancroft",animation,Mulan,19/06/1998,Buena Vista Studios,444,90.0,304.3,7.5,2.84,183.7,60.4,214.3,238.1,88,120.6,39.6
+324,Thursday,Robert Zemeckis,action,Back to the Future Part III,24/05/1990,Universal,444.9,40.0,244.5,7.4,3.24,156.8,64.1,204.5,511.3,118,87.7,35.9
+327,Friday,Andy Tennant,comedy,Hitch,11/02/2005,Sony,448.2,55.0,368.1,8.2,3.94,188.6,51.2,313.1,569.3,118,179.5,48.8
+328,Friday,Tom Shadyac,comedy,Liar Liar,21/03/1997,Universal,448.5,45.0,302.7,6.8,3.21,121.3,40.1,257.7,572.7,86,181.4,59.9
+329,Friday,"Brad Silberling, Phil Nibbelink",comedy,Casper,26/05/1995,Universal,449.2,55.0,287.9,6.0,2.9,187.6,65.2,232.9,423.5,100,100.3,34.8
+332,Friday,Tim Burton,action,Batman Returns,19/06/1992,WB,452.2,80.0,266.8,7.0,3.09,104,39.0,186.8,233.5,126,162.8,61.0
+333,Friday,Peter Weir,drama,Dead Poets Society,2/06/1989,Buena Vista Studios,452.4,16.4,235.9,8.0,3.89,140,59.4,219.5,1338.4,128,95.9,40.6
+334,Friday,"George Miller, Warren Coleman, Judy Morris",animation,Happy Feet,17/11/2006,WB,453.3,85.0,384.3,6.5,3.13,186.3,48.5,299.3,352.1,108,198.0,51.5
+335,Friday,Michael Apted,adventure,The Chronicles of Narnia: The Voyage of the Dawn Treader,10/12/2010,Fox,453.3,155.0,415.7,6.4,3.36,311.3,74.9,260.7,168.2,113,104.4,25.1
+336,Friday,Wolfgang Petersen,action,The Perfect Storm,30/06/2000,WB,453.9,120.0,328.7,6.4,3.08,146.1,44.4,208.7,173.9,130,182.6,55.6
+337,Wednesday,Christopher Nolan,action,Batman Begins,15/06/2005,WB,455.6,150.0,374.2,8.3,3.97,167.4,44.7,224.2,149.5,140,206.9,55.3
+339,Tuesday,Tom Hooper,drama,Les Miserables (2012),25/12/2012,Universal,457.6,61.0,441.8,6.0,2.92,293,66.3,380.8,624.3,158,148.8,33.7
+340,Friday,Shawn Levy,comedy,Night at the Museum: Battle of the Smithsonian,22/05/2009,Fox,457.9,150.0,413.1,5.9,3.01,235.9,57.1,263.1,175.4,104,177.2,42.9
+342,Friday,Gavin Hood,action,The Wolverine,1/05/2009,Fox,459.8,150.0,414.8,6.7,3.24,282.3,68.0,264.8,176.5,107,132.6,32.0
+343,Friday,Luc Besson,action,Lucy,25/07/2014,Universal,461,40.0,458.9,6.4,3.05,332.2,72.4,418.9,1047.3,89,126.7,27.6
+344,Wednesday,Bryan Singer,action,Superman Returns,28/06/2006,WB,461.3,232.0,391.1,6.1,3.12,191,48.8,159.1,68.6,154,200.1,51.2
+346,Friday,Andrew Adamson,action,The Chronicles of Narnia: Prince Caspian,16/05/2008,Buena Vista Studios,463.6,225.0,419.7,6.6,3.31,278,66.3,194.7,86.5,150,141.6,33.7
+348,Wednesday,James L. Brooks,comedy,As Good as It Gets,24/12/1997,Sony,465.5,50.0,314.2,7.8,3.79,165.7,52.7,264.2,528.4,139,148.5,47.3
+350,Friday,Wolfgang Petersen,action,Air Force One,25/07/1997,Sony,467,85.0,315.2,6.4,3.33,142.2,45.1,230.2,270.8,124,173.0,54.9
+352,Friday,J. J. Abrams,action,Mission: Impossible III,5/05/2006,Paramount Pictures,469.4,150.0,397.9,6.8,3.31,263.8,66.3,247.9,165.3,126,134.0,33.7
+353,Friday,"Phil Lord, Chris Miller",animation,The LEGO Movie,7/02/2014,WB,470.9,60.0,468.8,7.8,3.75,211,45.0,408.8,681.3,100,257.8,55.0
+356,Friday,Kenneth Branagh,action,Thor,6/05/2011,Paramount Pictures,475,150.0,449.3,7.0,3.51,268.3,59.7,299.3,199.5,115,181.0,40.3
+357,Friday,Paul Verhoeven,action,Total Recall,1/06/1990,Sony,475.4,65.0,261.3,7.5,3.18,141.9,54.3,196.3,302.0,113,119.4,45.7
+359,Friday,Ron Howard,comedy,How the Grinch Stole Christmas,17/11/2000,Universal,476.6,123.0,345.1,6.0,2.91,85.1,24.7,222.1,180.6,104,260.0,75.3
+360,Wednesday,J. J. Abrams,action,Star Trek Into Darkness,15/05/2013,Paramount Pictures,477.1,190.0,467.4,7.8,3.82,238.6,51.1,277.4,146.0,132,228.8,48.9
+361,Wednesday,"John Cornell, Mark Turnbull",action,Crocodile Dundee II,25/05/1988,Paramount Pictures,481.6,14.0,239.6,5.5,2.57,130.3,54.4,225.6,1611.4,108,109.3,45.6
+362,Friday,"Eric Leighton, Ralph Zondag",animation,Dinosaur,19/05/2000,Buena Vista Studios,483.1,127.5,349.8,6.4,3.12,212.1,60.6,222.3,174.4,82,137.7,39.4
+363,Wednesday,Stephen Herek,animation,101 Dalmatians (1996),27/11/1996,Buena Vista Studios,486.1,75.0,320.7,5.6,3.1,184.5,57.5,245.7,327.6,103,136.2,42.5
+364,Friday,Tim Burton,action,Planet of the Apes (2001),27/07/2001,Fox,486.4,100.0,362.2,5.7,2.74,182.2,50.3,262.2,262.2,119,180.0,49.7
+365,Friday,Jonathan Liebesman,action,Teenage Mutant Ninja Turtles (2014),8/08/2014,Paramount Pictures,487.2,125.0,485,7.9,3.84,293.8,60.6,360,288.0,101,191.2,39.4
+367,Friday,Rob Cohen,action,Fast and Furious,22/06/2001,Universal,487.7,38.0,363.2,6.7,2.88,208.1,57.3,325.2,855.8,106,155.1,42.7
+368,Friday,Rich Moore,animation,Wreck-It Ralph,2/11/2012,Buena Vista Studios,488.1,165.0,471.2,7.8,3.82,281.8,59.8,306.2,185.6,101,189.4,40.2
+369,Wednesday,Betty Thomas,animation,Alvin and the Chipmunks: The Squeakquel,23/12/2009,Fox,491.2,70.0,443.1,4.4,2.13,223.5,50.4,373.1,533.0,88,219.6,49.6
+370,Friday,"Gary Trousdale, Kirk Wise",animation,The Hunchback of Notre Dame,21/06/1996,Buena Vista Studios,493,100.0,325.3,6.8,3.3,225.2,69.2,225.3,225.3,91,100.1,30.8
+372,Wednesday,Joe Johnston,action,Jurassic Park III,18/07/2001,Universal,495.2,93.0,368.8,5.9,2.65,187.6,50.9,275.8,296.6,92,181.2,49.1
+373,Friday,Carlos Saldanha,animation,Rio 2,11/04/2014,Fox,502.5,130.0,500.2,6.4,3.08,368.7,73.7,370.2,284.8,101,131.5,26.3
+374,Friday,Sam Raimi,adventure,Oz The Great and Powerful,8/03/2013,Buena Vista Studios,503.6,200.0,493.3,6.4,2.99,258.4,52.4,293.3,146.7,130,234.9,47.6
+375,Friday,Michael Bay,action,The Rock,7/06/1996,Buena Vista Studios,507.9,75.0,335.1,7.4,3.7,201,60.0,260.1,346.8,136,134.1,40.0
+376,Friday,Paul Greengrass,action,The Bourne Ultimatum,3/08/2007,Universal,508,130.0,442.8,8.1,3.98,215.4,48.6,312.8,240.6,115,227.5,51.4
+379,Friday,Mimi Leder,action,Deep Impact,8/05/1998,Paramount Pictures,509.9,80.0,349.5,6.1,2.95,209,59.8,269.5,336.9,120,140.5,40.2
+381,Friday,Carlos Saldanha,animation,Rio,15/04/2011,Fox,512.3,90.0,484.6,7.0,3.36,341,70.4,394.6,438.4,96,143.6,29.6
+383,Friday,Nancy Meyers,comedy,What Women Want,15/12/2000,Paramount Pictures,516.6,65.0,374.1,6.4,3.14,191.3,51.1,309.1,475.5,127,182.8,48.9
+384,Friday,Todd Phillips,comedy,The Hangover,5/06/2009,WB,518.2,35.0,467.5,7.8,3.77,190.2,40.7,432.5,1235.7,100,277.3,59.3
+385,Friday,Roger Michell,comedy,Notting Hill,28/05/1999,Universal,519.4,42.0,363.9,7.0,3.45,247.8,68.1,321.9,766.4,124,116.1,31.9
+386,Friday,Zack Snyder,action,300,9/03/2007,WB,523.2,60.0,456.1,7.8,3.68,245.5,53.8,396.1,660.2,117,210.6,46.2
+387,Friday,Jon Turteltaub,action,National Treasure: Book of Secrets,21/12/2007,Buena Vista Studios,524.7,130.0,457.4,6.5,3.3,237.4,51.9,327.4,251.9,124,220.0,48.1
+388,Friday,Joel Schumacher,action,Batman Forever,16/06/1995,WB,525.1,100.0,336.5,5.4,2.92,152.5,45.3,236.5,236.5,121,184.0,54.7
+390,Thursday,Bryan Singer,action,X2: X-Men United,24/04/2003,Fox,526.9,110.0,407.7,7.5,3.68,192.8,47.3,297.7,270.6,134,214.9,52.7
+392,Wednesday,John Lasseter,animation,A Bug's Life,25/11/1998,Buena Vista Studios,530.2,120.0,363.4,7.2,3.61,200.6,55.2,243.4,202.8,96,162.8,44.8
+393,Friday,Gareth Edwards,action,Godzilla (2014),16/05/2014,WB,531.1,160.0,528.7,6.5,2.96,328,62.0,368.7,230.4,123,200.7,38.0
+394,Friday,Louis Leterrier,action,Clash of the Titans,2/04/2010,WB,537.9,125.0,493.2,5.8,2.8,330,66.9,368.2,294.6,106,163.2,33.1
+396,Friday,Kenneth Branagh,drama,Cinderella,13/03/2015,Buena Vista Studios,539,95.0,539,7.3,3.48,338.7,62.8,444,467.4,105,200.3,37.2
+397,Friday,M. Night Shyamalan,drama,Signs,2/08/2002,Buena Vista Studios,539.6,70.7,408.2,6.7,3.27,180.3,44.2,337.5,477.4,106,228.0,55.8
+398,Wednesday,"Bobby Farrelly, Peter Farrelly",comedy,There's Something About Mary,15/07/1998,Fox,539.7,22.0,369.9,7.1,3.55,193.4,52.3,347.9,1581.4,119,176.5,47.7
+400,Friday,"Mike Babriel, Eric Goldberg",animation,Pocahontas,23/06/1995,Buena Vista Studios,540.1,75.0,346.1,6.6,2.94,204.5,59.1,271.1,361.5,81,141.6,40.9
+401,Friday,Brett Ratner,action,X-Men: The Last Stand,26/05/2006,Fox,541.9,150.0,459.4,6.8,3.36,225,49.0,309.4,206.3,104,234.4,51.0
+402,Friday,"John Lasseter, Joe Ranft",animation,Cars,9/06/2006,Buena Vista Studios,545,70.0,462,7.2,3.51,217.9,47.2,392,560.0,117,244.1,52.8
+403,Friday,Richard Donner,action,Lethal Weapon 3,15/05/1992,WB,545.3,35.0,321.7,6.7,3.28,177,55.0,286.7,819.1,118,144.7,45.0
+404,Friday,Brian Levant,comedy,The Flintstones,27/05/1994,Universal,548.1,45.0,341.6,4.8,2.43,211.1,61.8,296.6,659.1,91,130.5,38.2
+406,Thursday,Clint Eastwood,action,American Sniper,25/12/2014,WB,549.6,58.0,547.1,7.4,3.5,197,36.0,489.1,843.3,132,350.1,64.0
+409,Wednesday,Gareth Edwards,action,Godzilla,20/05/1998,Sony,552.9,160.0,379,6.5,2.96,242.7,64.0,219,136.9,123,136.3,36.0
+410,Friday,Ron Howard,adventure,Apollo 13,30/06/1995,Universal,554.3,65.0,355.2,7.6,3.88,181.4,51.1,290.2,446.5,140,173.8,48.9
+411,Friday,Richard Stanley,drama,Brave,22/06/2012,Buena Vista Studios,558.3,185.0,539,7.2,3.59,301.7,56.0,354,191.4,50,237.3,44.0
+412,Friday,Stephen Sommers,action,The Mummy,4/05/2001,Universal,558.5,98.0,415.9,7.0,1.5,260.5,62.6,317.9,324.4,130,155.4,37.4
+413,Tuesday,Jonathan Mostow,action,Terminator 3: Rise of the Machines,1/07/2003,WB,560.1,170.0,433.4,6.4,3.12,283,65.3,263.4,154.9,109,150.4,34.7
+414,Friday,Greg MacGillivray,action,Speed,10/06/1994,Fox,562.3,30.0,350.4,7.2,3.5,229.2,65.4,320.4,1068.0,30,121.2,34.6
+416,Wednesday,John Lasseter,animation,Toy Story,22/11/1995,Buena Vista Studios,564.9,30.0,362,8.3,3.92,170.2,47.0,332,1106.7,80,191.8,53.0
+417,Friday,Seth MacFarlane,comedy,Ted,29/06/2012,Universal,569,50.0,549.4,7.0,3.35,330.6,60.2,499.4,998.8,106,218.8,39.8
+419,Friday,Sam Taylor-Wood,drama,Fifty Shades of Grey,13/02/2015,Universal,569.7,40.0,569.7,4.2,1.95,403.5,70.8,529.7,1324.3,125,166.2,29.2
+421,Friday,John McTiernan,action,Die Hard: With A Vengeance,19/05/1995,Fox,571.3,90.0,366.1,7.6,3.49,266.1,72.7,276.1,306.8,131,100.0,27.3
+422,Friday,Andrew Stanton,animation,WALL-E,27/06/2008,Buena Vista Studios,575.8,180.0,521.3,8.4,4.04,297.5,57.1,341.3,189.6,98,223.8,42.9
+423,Friday,Guy Ritchie,action,Sherlock Holmes: A Game of Shadows,16/12/2011,WB,576.6,125.0,545.4,7.5,3.8,358.6,65.7,420.4,336.3,129,186.8,34.3
+424,Friday,Shawn Levy,adventure,Night at the Museum,19/12/2014,Fox,577.1,127.0,574.5,6.4,3.13,323.6,56.3,447.5,352.4,98,250.9,43.7
+425,Friday,Tim Burton,adventure,Charlie and the Chocolate Factory,15/07/2005,WB,578.4,150.0,475,6.7,3.36,268.5,56.5,325,216.7,115,206.5,43.5
+426,Wednesday,John Landis,comedy,Coming to America,29/06/1988,Paramount Pictures,580.5,39.0,288.8,6.9,3.5,160.6,55.6,249.8,640.5,116,128.2,44.4
+427,Friday,Guy Ritchie,action,Sherlock Holmes,25/12/2009,WB,580.8,90.0,524,7.6,3.79,315,60.1,434,482.2,128,209.0,39.9
+428,Friday,Stephen Sommers,action,The Mummy Returns,4/05/2001,Universal,581.4,98.0,433,6.3,2.94,231,53.3,335,341.8,130,202.0,46.7
+429,Friday,Doug Liman,action,Mr. & Mrs. Smith,10/06/2005,Fox,582.3,110.0,478.2,6.5,3.26,291.9,61.0,368.2,334.7,120,186.3,39.0
+430,Wednesday,Barry Sonnenfeld,action,Men in Black II,3/07/2002,Sony,584,140.0,441.8,7.6,3.61,251.4,56.9,301.8,215.6,88,190.4,43.1
+432,Friday,Edward Zwick,action,The Last Samurai,5/12/2003,WB,590.4,120.0,456.8,7.7,3.7,345.6,75.7,336.8,280.7,154,111.1,24.3
+433,Friday,"Brad Lewis, John Lasseter",animation,Cars 2,24/06/2011,Buena Vista Studios,591.9,200.0,559.9,6.3,3.05,368.4,65.8,359.9,180.0,106,191.5,34.2
+434,Friday,"Chris Renaud, Pierre Coffin",animation,Despicable Me,9/07/2010,Universal,592.3,69.0,543.1,7.7,3.81,291.6,53.7,474.1,687.1,95,251.5,46.3
+435,Friday,Robert Zemeckis,adventure,Cast Away,22/12/2000,Fox,593.3,85.0,429.6,7.7,3.62,196,45.6,344.6,405.4,143,233.6,54.4
+436,Friday,Raja Gosnell,animation,The Smurfs,29/07/2011,Sony,595.9,110.0,563.7,5.5,2.43,421.1,74.7,453.7,412.5,103,142.6,25.3
+438,Friday,"Kirk DeMicco, Chris Sanders",animation,The Croods,22/03/2013,Fox,599.4,135.0,587.2,7.3,3.41,400,68.1,452.2,335.0,98,187.2,31.9
+439,Friday,Michael Bay,action,Pearl Harbor,25/05/2001,Buena Vista Studios,603.2,151.5,449.2,6.0,2.85,250.7,55.8,297.7,196.5,183,198.5,44.2
+440,Friday,David Silverman,animation,The Simpsons Movie,27/07/2007,Fox,604.7,72.5,527.1,7.4,3.51,343.9,65.3,454.6,627.0,87,183.1,34.7
+442,Friday,Andrew Davis,action,The Fugitive,6/08/1993,WB,607.1,44.0,368.9,7.8,3.99,185,50.2,324.9,738.4,130,183.9,49.8
+443,Friday,James Cameron,action,True Lies,15/07/1994,Fox,608,100.0,378.9,7.2,3.5,232.6,61.4,278.9,278.9,141,146.3,38.6
+444,Friday,Chris Columbus,comedy,Home Alone 2: Lost in New York,20/11/1992,Fox,608.5,20.0,359,6.5,2.52,185.4,51.6,339,1695.0,120,173.6,48.4
+445,Thursday,Todd Phillips,comedy,The Hangover Part II,26/05/2011,WB,620.4,80.0,586.8,6.5,3.09,332.3,56.6,506.8,633.5,102,254.5,43.4
+446,Friday,Dean DeBlois,animation,How to Train Your Dragon 2,13/06/2014,Fox,621.7,145.0,618.9,7.9,3.73,441.9,71.4,473.9,326.8,102,177.0,28.6
+447,Friday,Wolfgang Petersen,action,Troy,14/05/2004,WB,626.2,150.0,497.4,7.2,3.32,364,73.2,347.4,231.6,163,133.4,26.8
+448,Friday,Tom Shadyac,comedy,Bruce Almighty,23/05/2003,Universal,626.3,81.0,484.6,6.7,3.22,241.8,49.9,403.6,498.3,101,242.8,50.1
+449,Wednesday,Tony Scott,action,Beverly Hills Cop II,20/05/1987,Paramount Pictures,628,20.0,300,6.4,3.07,146.3,48.8,280,1400.0,100,153.7,51.2
+450,Wednesday,Ang Lee,adventure,Life of Pi,21/11/2012,Fox,630.8,120.0,609,8.0,3.8,484,79.5,489,407.5,127,125.0,20.5
+452,Wednesday,John Woo,action,Mission: Impossible,24/05/2000,Paramount Pictures,632.1,120.0,457.7,7.1,3.39,276.7,60.5,337.7,281.4,123,181.0,39.5
+453,Wednesday,Robert Zemeckis,adventure,Back to the Future Part II,22/11/1989,Universal,636.7,40.0,332,7.8,3.44,213.5,64.3,292,730.0,108,118.5,35.7
+454,Wednesday,"Kevin Lima, Chris Buck",animation,Tarzan,16/06/1999,Buena Vista Studios,639.8,130.0,448.2,7.2,3.46,277.1,61.8,318.2,244.8,88,171.1,38.2
+455,Wednesday,"Byron Howard, Nathan Greno",animation,Tangled,24/11/2010,Buena Vista Studios,645.4,260.0,591.8,7.8,3.85,391,66.1,331.8,127.6,100,200.8,33.9
+456,Friday,Barry Sonnenfeld,action,MIB 3,25/05/2012,Sony,646.3,215.0,624,6.9,3.41,445,71.3,409,190.2,106,179.0,28.7
+457,Friday,Jon Favreau,action,Iron Man,2/05/2008,Paramount Pictures,646.4,186.0,585.2,7.9,3.92,266.8,45.6,399.2,214.6,126,318.4,54.4
+458,Friday,Marc Forster,action,Quantum of Solace,14/11/2008,Sony,647.4,230.0,586.1,6.7,3.38,417.7,71.3,356.1,154.8,106,168.4,28.7
+460,Wednesday,Jay Roach,comedy,Meet the Fockers,22/12/2004,Universal,650.3,60.0,516.6,6.3,3.11,237.4,45.9,456.6,761.0,115,279.3,54.1
+462,Friday,"Christopher Williams, Don Hall",animation,Big Hero 6,7/11/2014,Buena Vista Studios,655,165.0,652.1,7.9,3.82,429.6,65.9,487.1,295.2,102,222.5,34.1
+463,Friday,Alan Taylor,action,Thor: The Dark World,8/11/2013,Buena Vista Studios,658.2,170.0,644.8,7.1,3.51,438.4,68.0,474.8,279.3,112,206.4,32.0
+464,Wednesday,"Andy Wachowski, Lana Wachowski",action,The Matrix,31/03/1999,WB,661.6,65.0,463.5,8.7,4.19,292,63.0,398.5,613.1,136,171.5,37.0
+465,Friday,Justin Lin,action,Fast Five,29/04/2011,Universal,661.9,125.0,626.1,7.3,3.44,416.3,66.5,501.1,400.9,130,209.8,33.5
+466,Wednesday,Robert Zemeckis,animation,Who Framed Roger Rabbit,22/06/1988,Buena Vista Studios,663,70.0,329.8,7.7,3.52,173.4,52.6,259.8,371.1,104,156.5,47.4
+470,Friday,Adrian Lyne,drama,Fatal Attraction,18/09/1987,Paramount Pictures,670.1,14.0,320.1,6.9,3.44,163.5,51.1,306.1,2186.4,119,156.6,48.9
+471,Wednesday,Peter Jackson,adventure,King Kong,14/12/2005,Universal,670.3,207.0,550.5,7.3,3.34,332.4,60.4,343.5,165.9,187,218.1,39.6
+472,Friday,Francis Lawrence,drama,I Am Legend,14/12/2007,WB,671.4,150.0,585.3,7.2,3.5,329,56.2,435.3,290.2,101,256.4,43.8
+473,Friday,Phyllida Lloyd,comedy,Mamma Mia!,18/07/2008,Universal,673.5,52.0,609.8,6.4,3.17,465.7,76.4,557.8,1072.7,108,144.1,23.6
+476,Friday,Jon Favreau,action,Iron Man 2,7/05/2010,Paramount Pictures,680.4,170.0,623.9,7.1,3.61,311.5,49.9,453.9,267.0,124,312.4,50.1
+477,Friday,Kevin Reynolds,action,Robin Hood: Prince of Thieves,14/06/1991,WB,681.8,50.0,390.5,6.9,3.28,225,57.6,340.5,681.0,143,165.5,42.4
+478,Friday,Zack Snyder,action,Man of Steel,14/06/2013,WB,681.9,225.0,668,7.2,3.4,377,56.4,443,196.9,143,291.0,43.6
+481,Wednesday,Peter Berg,action,Hancock,2/07/2008,Sony,689.7,150.0,624.4,6.5,3.22,396.4,63.5,474.4,316.3,92,227.9,36.5
+482,Friday,"John Lasseter, Lee Unkrich, Ash Brannon",animation,Toy Story 2,19/11/1999,Buena Vista Studios,692.3,90.0,485,5.9,2.53,239.2,49.3,395,438.9,92,245.9,50.7
+487,Friday,Martin Campbell,action,Casino Royale,17/11/2006,Sony,706.6,102.0,599,8.0,3.85,431.6,72.0,497,487.3,144,167.4,28.0
+488,Friday,Matt Reeves,action,Dawn of the Planet of the Apes,11/07/2014,Fox,712,170.0,708.8,7.7,3.61,500.3,70.6,538.8,316.9,130,208.5,29.4
+489,Friday,Peter Faiman,adventure,Crocodile Dundee,26/09/1986,Paramount Pictures,712.1,5.0,328.2,6.5,3.12,153.4,46.7,323.2,6464.0,93,174.8,53.3
+490,Friday,Marc Webb,action,The Amazing Spider-Man 2,2/05/2014,Sony,712.2,200.0,709,6.8,3.22,506.1,71.4,509,254.5,142,202.9,28.6
+492,Friday,"Brad Bird, Jan Pinkava",animation,Ratatouille,29/06/2007,Buena Vista Studios,715.5,150.0,623.7,8.0,3.88,417.3,66.9,473.7,315.8,111,206.4,33.1
+494,Friday,"Joe Russo, Anthony Russo",action,Captain America: The Winter Soldier,4/04/2014,Buena Vista Studios,718,170.0,714.8,7.8,3.72,455,63.7,544.8,320.5,136,259.8,36.3
+495,Wednesday,Steven Spielberg,action,War of the Worlds,29/06/2005,Paramount Pictures,720.5,132.0,591.7,6.5,3.15,357.5,60.4,459.7,348.3,116,234.3,39.6
+496,Wednesday,Martin Brest,action,Beverly Hills Cop,5/12/1984,Paramount Pictures,724.2,15.0,316.4,7.3,3.54,81.6,25.8,301.4,2009.3,105,234.8,74.2
+497,Wednesday,Chris Columbus,comedy,Mrs. Doubtfire,24/11/1993,Fox,726.3,25.0,441.3,8.0,3.73,222.1,50.3,416.3,1665.2,125,219.2,49.7
+498,Friday,Alfonso Cuarn,drama,Gravity,4/10/2013,WB,731.3,110.0,716.4,7.9,3.75,442.3,61.7,606.4,551.3,91,274.1,38.3
+499,Friday,Brad Bird,action,Mission: Impossible - Ghost Protocol,16/12/2011,Paramount Pictures,734.4,145.0,694.7,7.4,3.64,485.3,69.9,549.7,379.1,133,209.4,30.1
+500,Wednesday,"Gary Trousdale, Kirk Wise",animation,Beauty and the Beast,13/11/1991,Buena Vista Studios,742,20.0,425,7.2,3.67,206,48.5,405,2025.0,84,219.0,51.5
+501,Friday,Jan de Bont,action,Twister,10/05/1996,WB,749.5,88.0,494.5,6.3,3.23,252.8,51.1,406.5,461.9,113,241.7,48.9
+502,Friday,Bryan Singer,action,X-Men: Days of Future Past,23/05/2014,Fox,751.5,200.0,748.1,8.1,3.82,514.2,68.7,548.1,274.1,131,233.9,31.3
+504,Wednesday,John Woo,action,Mission: Impossible II,24/05/2000,Paramount Pictures,754.6,120.0,546.4,6.0,2.96,331,60.6,426.4,355.3,123,215.4,39.4
+506,Friday,"Pete Docter, Lee Unkrich, David Silverman",animation,"Monsters, Inc.",2/11/2001,Buena Vista Studios,755.7,115.0,562.8,8.1,3.88,272.9,48.5,447.8,389.4,92,289.9,51.5
+507,Friday,Dan Scanlon,animation,Monsters University,21/06/2013,Buena Vista Studios,759.1,200.0,743.6,7.4,3.65,475.1,63.9,543.6,271.8,104,268.5,36.1
+509,Friday,Robert Stromberg,action,Maleficent,30/05/2014,Buena Vista Studios,761.8,180.0,758.4,7.0,3.37,517,68.2,578.4,321.3,97,241.4,31.8
+510,Wednesday,Steven Spielberg,action,Indiana Jones and the Temple of Doom,23/05/1984,Paramount Pictures,762.4,28.0,333.1,7.6,3.68,153.2,46.0,305.1,1089.6,118,179.9,54.0
+514,Friday,Tony Scott,action,Top Gun,16/05/1986,Paramount Pictures,774.2,15.0,356.8,6.8,3.41,177,49.6,341.8,2278.7,110,179.8,50.4
+515,Friday,James Gunn,action,Guardians of the Galaxy,1/08/2014,Buena Vista Studios,777.7,170.0,774.2,8.1,3.85,441,57.0,604.2,355.4,121,333.2,43.0
+516,Friday,Carlos Saldanha,animation,Ice Age: The Meltdown,31/03/2006,Fox,779.6,75.0,660.9,6.9,3.35,465.6,70.4,585.9,781.2,91,195.3,29.6
+517,Tuesday,Marc Webb,action,The Amazing Spider-Man,3/07/2012,Sony,785,230.0,757.9,7.1,3.22,495.9,65.4,527.9,229.5,136,262.0,34.6
+519,Friday,Tim Burton,action,Batman,23/06/1989,WB,788.8,48.0,411.3,7.6,3.38,160.2,38.9,363.3,756.9,126,251.2,61.1
+520,Friday,Brad Bird,animation,The Incredibles,5/11/2004,Buena Vista Studios,794.9,92.0,631.4,8.0,3.91,370,58.6,539.4,586.3,115,261.4,41.4
+521,Friday,Justin Lin,action,Fast & Furious 6,24/05/2013,Universal,805.1,160.0,788.7,7.2,3.33,550,69.7,628.7,392.9,130,238.7,30.3
+522,Wednesday,Michael Bay,action,Armageddon,1/07/1998,Buena Vista Studios,807.8,140.0,553.7,6.6,2.4,352.1,63.6,413.7,295.5,150,201.6,36.4
+523,Friday,Pete Docter,animation,Up,29/05/2009,Buena Vista Studios,810.6,175.0,731.3,8.3,4.04,438.3,59.9,556.3,317.9,96,293.0,40.1
+526,Wednesday,Robert Zemeckis,adventure,Back to the Future,3/07/1985,Universal,842.3,19.0,381.1,8.5,3.91,170.5,44.7,362.1,1905.8,116,210.6,55.3
+527,Friday,Garry Marshall,comedy,Pretty Woman,23/03/1990,Buena Vista Studios,843.1,14.0,463.4,6.9,3.43,285,61.5,449.4,3210.0,119,178.4,38.5
+528,Wednesday,Gore Verbinski,action,Pirates of the Caribbean: The Curse of the Black Pearl,9/07/2003,Buena Vista Studios,845.6,125.0,654.3,8.1,3.86,348.9,53.3,529.3,423.4,143,305.4,46.7
+529,Friday,Roland Emmerich,action,2012,13/11/2009,Sony,853.2,200.0,769.7,5.8,2.8,603.6,78.4,569.7,284.9,158,166.1,21.6
+530,Wednesday,"Ron Clements, John Musker",animation,Aladdin,11/11/1992,Buena Vista Studios,854.4,28.0,504.1,8.0,3.68,286.7,56.9,476.1,1700.4,90,217.4,43.1
+533,Friday,Chris Columbus,adventure,Home Alone,16/11/1990,Fox,867.3,15.0,476.7,7.4,3.09,190.9,40.1,461.7,3078.0,103,285.8,59.9
+534,Thursday,Steven Spielberg,action,Indiana Jones and the Kingdom of the Crystal Skull,22/05/2008,Paramount Pictures,868.8,185.0,786.6,6.2,2.95,469.5,59.7,601.6,325.2,122,317.1,40.3
+535,Wednesday,Barry Sonnenfeld,action,Men in Black,2/07/1997,Sony,873.3,90.0,589.4,7.2,3.56,338.7,57.5,499.4,554.9,98,250.7,42.5
+538,Friday,Christopher Nolan,action,Inception,16/07/2010,WB,900.3,160.0,825.5,8.8,4.16,533,64.6,665.5,415.9,148,292.6,35.4
+539,Friday,Andrew Adamson,adventure,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",9/12/2005,Buena Vista Studios,907.1,180.0,745,6.9,3.48,453.3,60.8,565,313.9,143,291.7,39.2
+541,Friday,"Steve Martino, Michael Thurmeier",animation,Ice Age: Continental Drift,13/07/2012,Fox,908.6,95.0,877.2,6.7,3.21,715.9,81.6,782.2,823.4,88,161.3,18.4
+542,Wednesday,Steven Spielberg,action,Indiana Jones and the Last Crusade,24/05/1989,Paramount Pictures,909.4,48.0,474.2,8.3,4.01,277,58.4,426.2,887.9,127,197.2,41.6
+543,Thursday,Steven Spielberg,action,The Lost World: Jurassic Park,22/05/1997,Universal,916.5,75.0,618.6,6.5,2.96,389.6,63.0,543.6,724.8,129,229.1,37.0
+545,Friday,Jerry Zucker,drama,Ghost,13/07/1990,Paramount Pictures,920.1,22.0,505.7,7.0,3.45,288.1,57.0,483.7,2198.6,127,217.6,43.0
+547,Friday,John Badham,drama,Saturday Night Fever,16/12/1977,Paramount Pictures,930.4,3.5,237.1,6.8,3.28,142.9,60.3,233.6,6674.3,118,94.2,39.7
+549,Wednesday,Peter Jackson,adventure,The Hobbit: The Battle of the Five Armies,17/12/2014,WB,959.4,250.0,955.1,7.5,3.43,700,73.3,705.1,282.0,144,255.1,26.7
+550,Friday,M. Night Shyamalan,drama,The Sixth Sense,6/08/1999,Buena Vista Studios,960.4,40.0,672.8,8.2,4.06,379.3,56.4,632.8,1582.0,107,293.5,43.6
+551,Friday,Peter Jackson,adventure,The Hobbit: The Desolation of Smaug,13/12/2013,WB,980.4,250.0,960.4,8.0,3.74,702,73.1,710.4,284.2,161,258.4,26.9
+552,Wednesday,"Carlos Saldanha, Michael Thurmeier",animation,Ice Age: Dawn of the Dinosaurs,1/07/2009,Fox,982.9,90.0,886.7,7.0,3.4,690.1,77.8,796.7,885.2,94,196.6,22.2
+553,Wednesday,Sam Raimi,action,Spider-Man 2,30/06/2004,Sony,986.7,200.0,783.8,7.3,3.55,410.2,52.3,583.8,291.9,127,373.6,47.7
+554,Tuesday,"Chris Renaud, Pierre Coffin",animation,Despicable Me 2,2/07/2013,Universal,991,76.0,970.8,7.5,3.74,602.7,62.1,894.8,1177.4,98,368.1,37.9
+555,Friday,Alfonso Cuarn,adventure,Harry Potter and the Prisoner of Azkaban,4/06/2004,WB,"1,003",130.0,796.7,7.8,3.75,547.1,68.7,666.7,512.9,141,249.5,31.3
+556,Friday,Steven Spielberg,action,Raiders of the Lost Ark,12/06/1981,Paramount Pictures,"1,020",20.0,389.9,8.6,4.21,141.8,36.4,369.9,1849.5,115,248.2,63.6
+557,Friday,Sam Raimi,action,Spider-Man 3,4/05/2007,Sony,"1,022",258.0,890.9,6.2,3.02,554.3,62.2,632.9,245.3,139,336.5,37.8
+558,Thursday,George Lucas,action,Star Wars: Episode III - Revenge of the Sith,19/05/2005,Fox,"1,033.50",115.0,848.8,7.7,3.47,468.5,55.2,733.8,638.1,140,380.3,44.8
+559,Wednesday,David Yates,adventure,Harry Potter and the Half-Blood Prince,15/07/2009,WB,"1,035.70",250.0,934.4,7.5,3.82,632.5,67.7,684.4,273.8,153,302.0,32.3
+560,Friday,David Yates,adventure,Harry Potter and the Deathly Hallows Part 1,19/11/2010,WB,"1,047.30",125.0,960.3,8.1,3.89,664.3,69.2,835.3,668.2,146,296.0,30.8
+561,Friday,Peter Jackson,adventure,The Hobbit: An Unexpected Journey,14/12/2012,WB,"1,053.40",250.0,"1,017",8.0,3.79,714,70.2,767,306.8,169,303.0,29.8
+562,Wednesday,David Yates,adventure,Harry Potter and the Order of the Phoenix,11/07/2007,WB,"1,078.20",150.0,939.9,7.4,3.74,647.9,68.9,789.9,526.6,138,292.0,31.1
+563,Friday,Sam Raimi,action,Spider-Man,3/05/2002,Sony,"1,086.20",139.0,821.7,7.3,3.57,418,50.9,682.7,491.2,121,403.7,49.1
+564,Wednesday,Robert Zemeckis,drama,Forrest Gump,6/07/1994,Paramount Pictures,"1,087.80",55.0,677.9,8.8,4.04,347.7,51.3,622.9,1132.6,142,330.3,48.7
+565,Friday,Mike Newell,adventure,Harry Potter and the Goblet of Fire,18/11/2005,WB,"1,092.10",150.0,896.9,7.6,3.72,606.9,67.7,746.9,497.9,157,290.0,32.3
+566,Friday,Gore Verbinski,action,Pirates of the Caribbean: At World's End,25/05/2007,Buena Vista Studios,"1,105.20",300.0,963.4,7.1,3.4,654,67.9,663.4,221.1,169,309.4,32.1
+567,Friday,Rob Marshall,action,Pirates of the Caribbean: On Stranger Tides,20/05/2011,Buena Vista Studios,"1,105.50",250.0,"1,045.70",6.7,3.34,804.6,76.9,795.7,318.3,137,241.1,23.1
+568,Friday,Michael Bay,action,Transformers: Age of Extinction,27/06/2014,Paramount Pictures,"1,109",210.0,"1,104",5.8,2.53,858.6,77.8,894,425.7,165,245.4,22.2
+569,Friday,Christopher Nolan,action,The Dark Knight,18/07/2008,WB,"1,109.60",185.0,"1,004.60",9.0,4.5,469.7,46.8,819.6,443.0,152,534.9,53.2
+570,Friday,Tim Burton,adventure,Alice in Wonderland,5/03/2010,Buena Vista Studios,"1,118.40",200.0,"1,025.50",6.5,3.27,691.3,67.4,825.5,412.8,108,334.2,32.6
+571,Friday,Christopher Nolan,action,The Dark Knight Rises,20/07/2012,WB,"1,123.20",275.0,"1,084.40",8.5,4.01,636.3,58.7,809.4,294.3,165,448.1,41.3
+572,Wednesday,Richard Marquand,action,Return of the Jedi,25/05/1983,Fox,"1,134.30",32.5,475.1,8.4,3.99,165.8,34.9,442.6,1361.9,134,309.3,65.1
+573,Thursday,Sam Mendes,action,Skyfall,8/11/2012,Sony,"1,148.20",200.0,"1,108.60",7.8,3.81,804.2,72.5,908.6,454.3,143,304.4,27.5
+575,Friday,Lee Unkrich,animation,Toy Story 3,18/06/2010,Buena Vista Studios,"1,159.50",200.0,"1,063.20",8.4,4.01,648.2,61.0,863.2,431.6,103,415.0,39.0
+576,Friday,Chris Columbus,adventure,Harry Potter and the Chamber of Secrets,15/11/2002,WB,"1,161.90",100.0,879,7.3,3.58,617,70.2,779,779.0,161,262.0,29.8
+580,Friday,"Andrew Stanton, Lee Unkrich",animation,Finding Nemo,30/05/2003,Buena Vista Studios,"1,210.60",94.0,936.7,8.2,3.89,555.9,59.3,842.7,896.5,100,380.8,40.7
+582,Wednesday,Roland Emmerich,action,Independence Day,3/07/1996,Fox,"1,238.90",75.0,817.4,6.9,3.4,511.2,62.5,742.4,989.9,145,306.2,37.5
+583,Friday,Shane Black,action,Iron Man 3,3/05/2013,Buena Vista Studios,"1,240.70",200.0,"1,215.40",7.3,3.68,806.4,66.3,"1,015.40",507.7,130,409.0,33.7
+584,Friday,Colin Trevorrow,action,Jurassic World,12/06/2015,Universal,"1,245.90",215.0,"1,245.90",7.5,3.45,745.5,59.8,"1,030.90",479.5,124,500.4,40.2
+585,Friday,Gore Verbinski,action,Pirates of the Caribbean: Dead Man's Chest,7/07/2006,Buena Vista Studios,"1,257.70",225.0,"1,066.20",7.3,3.47,642.9,60.3,841.2,373.9,151,423.3,39.7
+586,Friday,"Chris Buck, Jennifer Lee",animation,Frozen,22/11/2013,Buena Vista Studios,"1,300.70",150.0,"1,274.20",7.7,3.71,873.5,68.6,"1,124.20",749.5,102,400.7,31.4
+587,Friday,Chris Columbus,adventure,Harry Potter and the Sorcerer's Stone,16/11/2001,WB,"1,308.90",125.0,974.8,7.5,3.62,657.2,67.4,849.8,679.8,152,317.6,32.6
+588,Friday,Joss Whedon,action,Avengers: Age of Ultron,1/05/2015,Buena Vista Studios,"1,371.60",250.0,"1,371.60",7.9,3.75,919.1,67.0,"1,121.60",448.6,141,452.5,33.0
+594,Friday,James Wan,action,Furious 7,3/04/2015,Universal,"1,511.60",190.0,"1,511.60",7.6,3.34,"1,160.60",76.8,"1,321.60",695.6,137,351.0,23.2
+596,Friday,Joss Whedon,action,Marvel's The Avengers,4/05/2012,Buena Vista Studios,"1,572.90",220.0,"1,518.60",8.2,3.95,895.2,59.0,"1,298.60",590.3,143,623.4,41.0
+597,Wednesday,"Roger Allers, Rob Minkoff",animation,The Lion King,15/06/1994,Buena Vista Studios,"1,584.60",79.3,987.5,8.5,3.78,564.7,57.2,908.2,1145.3,89,422.8,42.8
+598,Friday,Steven Spielberg,adventure,Jurassic Park,11/06/1993,Universal,"1,693.80",63.0,"1,029.20",8.1,3.66,626.7,60.9,966.2,1533.7,127,402.5,39.1
+600,Friday,Steven Spielberg,adventure,E.T.: The Extra-Terrestrial,11/06/1982,Universal,"1,953.90",10.5,792.9,7.9,3.76,357.8,45.1,782.4,7451.4,115,435.1,54.9
+602,Tuesday,Richard Fleischer,adventure,Doctor Dolittle,19/12/1967,Fox,"2,096.80",70.5,294.5,5.3,3.01,150.3,51.0,224,317.7,152,144.2,49.0
+604,Wednesday,George Lucas,action,Star Wars,25/05/1977,Fox,"3,042.80",11.0,775.4,8.7,4.19,314.4,40.5,764.4,6949.1,121,461.0,59.5
+606,Wednesday,James Cameron,drama,Titanic,17/12/1997,Paramount Pictures,"3,240.10",200.0,"2,186.80",7.7,3.38,"1,528.10",69.9,"1,986.80",993.4,194,658.7,30.1
